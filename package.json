@@ -1,0 +1,28 @@
+{
+  "name": "game-of-thrones",
+  "version": "1.0.0",
+  "description": "yyhyyy",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "apollo-boost": "0.1.10",
+    "graphql": "latest",
+    "react": "16.5.2",
+    "react-apollo": "2.1.0-beta.3",
+    "react-art": "16.3.2",
+    "react-dom": "16.5.2",
+    "react-native-web": "latest",
+    "react-router": "latest",
+    "react-router-dom": "latest",
+    "react-scripts": "1.1.0",
+    "recyclerlistview": "1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
